@@ -1,5 +1,5 @@
 # Cyber-Security-Password-Managers
-Team 6.
+## Team 6
 
 Members:
 
