@@ -4,10 +4,6 @@
 
 Short program that demonstrates the vulnerability CVE-2024-33901 in KeePassXC version 2.7.7
 
-This repo contains all of our team members' code, but my original repository was in:
-
-https://github.com/gmikisilva/CVE-2024-33901-ProofOfConcept/edit/main/README.md
-
 ## How to replicate the vulnerability
 1. Open KeePassXC and authenticate the database
 2. While the database is authenticated, create a memory dump file for it
