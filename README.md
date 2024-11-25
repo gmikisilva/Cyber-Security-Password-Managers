@@ -13,4 +13,4 @@ Members:
 
 - Jose Vega
 
-Repository containing our attacks on the password managers that we were tasked.
+Repository containing our attacks on some of the password managers that we were tasked.
